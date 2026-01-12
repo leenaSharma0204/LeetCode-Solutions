@@ -36,3 +36,7 @@ I am a **3rd Year Computer Science Student** passionate about problem-solving an
 
 ---
 *“Coding is a marathon, not a sprint. One problem at a time.”*.
+
+## 🚀 Featured Projects
+- **Quiz Application:** An interactive web app built to practice frontend logic. 
+  - [Live Demo](YOUR_GITHUB_PAGES_LINK_HERE) | [Source Code](YOUR_REPO_LINK_HERE)
